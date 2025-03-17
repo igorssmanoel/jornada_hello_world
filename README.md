@@ -10,7 +10,7 @@ Se você está começando agora, estas tecnologias são ideais:
 - **Backend:** Python com Flask ou Django
 - **Banco de Dados:** SQLite, PostgreSQL ou MongoDB
 - **Controle de Versão:** Git e GitHub
-- **Ferramentas Auxiliares:** VS Code, Postman (para API), Docker (se quiser aprender sobre conteinerização)
+- **Ferramentas Auxiliares:** VS Code, Insomnia (para API), Docker (se quiser aprender sobre conteinerização)
 
 ## 2. Estrutura do Portfólio
 
