@@ -24,7 +24,7 @@ Para demonstrar sua evolução e habilidades, organize seu portfólio com os seg
 
 ### Projetos Intermediários
 
-4. **Aplicativo de Notas (React + Flask/Django + PostgreSQL)** - Um CRUD completo de anotações com login.
+4. **Aplicação web de Notas (React + Flask/Django + PostgreSQL)** - Um CRUD completo de anotações com login.
 5. **Dashboard de Estatísticas (React + Flask/Django + Chart.js)** - Uma interface que consome uma API e exibe gráficos interativos.
 6. **Clone de uma Interface Popular** - Clone responsivo de sites como Netflix ou Instagram utilizando React.
 
